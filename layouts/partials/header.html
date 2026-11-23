@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="{{ "/" | relURL }}" aria-label="AASRF home">
+      <img src="{{ "images/aasrf-mark.svg" | relURL }}" alt="" class="brand-mark">
+      <span class="brand-name">AAS<span>R</span>F<small>AFRICAN AGRICULTURAL SCHOLARS<br>RESEARCH FUND</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      {{ range site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
+      <a class="nav-cta" href="{{ "contact/" | relURL }}">Support our mission <span>↗</span></a>
+    </nav>
+  </div>
+</header>

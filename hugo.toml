@@ -1,0 +1,47 @@
+baseURL = "https://african-agricultural-scholars-research-fund.org/"
+languageCode = "en"
+title = "African Agricultural Scholars Research Fund"
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 8
+
+[params]
+  shortName = "AASRF"
+  tagline = "Empowering African Agricultural Research Through Funding and Mentorship"
+  description = "Supporting African postgraduate scholars through accessible research funding, scientific mentorship and collaboration."
+  email = "info@african-agricultural-scholars-research-fund.org"
+  foundingYear = "2026"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 2
+  [[menu.main]]
+    name = "Research grants"
+    pageRef = "/grants"
+    weight = 3
+  [[menu.main]]
+    name = "Mentorship"
+    pageRef = "/mentorship"
+    weight = 4
+  [[menu.main]]
+    name = "Our people"
+    pageRef = "/people"
+    weight = 5
+  [[menu.main]]
+    name = "Partners"
+    pageRef = "/partners"
+    weight = 6
+  [[menu.main]]
+    name = "News & resources"
+    pageRef = "/news"
+    weight = 7
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 8
