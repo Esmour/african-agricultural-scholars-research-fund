@@ -10,9 +10,9 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
   <article class="founder-card">
     <img class="founder-photo" src="/images/kamal.jpg" alt="Dr. Kamaluddin T. Aliyu" loading="lazy">
     <div class="founder-body">
-      <div class="eyebrow">FOUNDING MEMBER · ZAMBIA</div>
+      <div class="eyebrow">FOUNDING MEMBER · CIMMYT, ZAMBIA</div>
       <h2>Dr. Kamaluddin T. Aliyu</h2>
-      <p class="role">PDF Cropping Systems Agronomist, CIMMYT</p>
+      <p class="role">Postdoctoral Cropping Systems Agronomist, CIMMYT</p>
       <p>Kamaluddin Tijjani is a cropping systems agronomist conducting research across a diverse range of tropical crops. His research interests include cropping systems, soil health and fertility management, plant nutrition, and digital extension advisories. He joined CIMMYT in 2023 to support various aspects of cropping systems and soil health research in the Southern Africa region.</p>
       <p>Prior to joining CIMMYT, Kamaluddin worked at the Center for Dryland Agriculture in Nigeria and later at the International Institute of Tropical Agriculture, also in Nigeria. He holds a Bachelor of Science in General Agriculture, a Master of Science in Agronomy, and a Doctorate in Agronomy, specialising in crops and cropping systems in drylands, all from Bayero University, Kano, Nigeria.</p>
       <div class="expertise"><b>Areas of expertise</b><span>Soil health and fertility management</span><span>Conservation agriculture</span><span>GIS</span><span>Digital advisories</span></div>
@@ -28,9 +28,9 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
   <article class="founder-card">
     <img class="founder-photo" src="/images/ismail.jpg" alt="Dr. Ismail I. Garba" loading="lazy">
     <div class="founder-body">
-      <div class="eyebrow">FOUNDING MEMBER</div>
+      <div class="eyebrow">FOUNDING MEMBER · CSIRO, Australia</div>
       <h2>Dr. Ismail I. Garba</h2>
-      <p class="role">Founding member</p>
+      <p class="role">Farming Systems Scientist</p>
       <p> Dr Garba integrates agronomy, crop modelling, and data analytics to understand how farming systems perform across environments. My work focuses on analysing genotype × environment × management interactions to improve crop productivity, resilience, and resource-use efficiency in agricultural systems. I develops analytical frameworks that combine crop models such as APSIM with experimental data, climate information, and digital agriculture datasets to generate system-level insights that support decision-making in agriculture that contributes to improving decision intelligence for farming systems and supporting the development of resilient and productive agricultural systems..</p>
       <div class="profile-links"><a href="https://orcid.org/0000-0002-0009-4866" target="_blank" rel="noopener noreferrer">ORCID ↗</a></div>
     </div>
@@ -39,18 +39,17 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
   <article class="founder-card">
     <img class="founder-photo" src="/images/tukur.jpg" alt="Dr. Tukur Abdulazeez" loading="lazy">
     <div class="founder-body">
-      <div class="eyebrow">FOUNDING MEMBER</div>
+      <div class="eyebrow">FOUNDING MEMBER  · University of Dundee, UK</div>
       <h2>Dr. Tukur Abdulazeez</h2>
       <p class="role">Founding member</p>
       <p>Dr. Abdulazeez is a founding member of the African Agricultural Scholars Research Fund. A fuller professional biography and areas of expertise will be added after confirmation.</p>
       <div class="profile-links"><a href="https://orcid.org/0000-0003-2173-5957" target="_blank" rel="noopener noreferrer">ORCID ↗</a></div>
     </div>
   </article>
-
   <article class="founder-card">
     <img class="founder-photo" src="/images/adam.jpg" alt="Dr. Adam M. Adam" loading="lazy">
     <div class="founder-body">
-      <div class="eyebrow">FOUNDING MEMBER</div>
+      <div class="eyebrow">FOUNDING MEMBER  · Universität Göttingen, Germany</div>
       <h2>Dr. Adam M. Adam</h2>
       <p class="role">Founding member</p>
       <p>Dr. Adam is a founding member of the African Agricultural Scholars Research Fund. A fuller professional biography and areas of expertise will be added after confirmation.</p>
@@ -60,10 +59,10 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
   <article class="founder-card">
     <img class="founder-photo" src="/images/benjamin.jpeg" alt="Mr. Benjamin Kurya" loading="lazy">
     <div class="founder-body">
-      <div class="eyebrow">FOUNDING MEMBER</div>
-      <h2>Mr. Benjamin Kurya</h2>
+      <div class="eyebrow">FOUNDING MEMBER  · University of Adelaide</div>
+      <h2>Dr. Benjamin Kurya</h2>
       <p class="role">Founding member</p>
-      <p>Mr. Kurya is a founding member of the African Agricultural Scholars Research Fund. A fuller professional biography and areas of expertise will be added after confirmation.</p>
+      <p>Dr. Kurya is a founding member of the African Agricultural Scholars Research Fund. A fuller professional biography and areas of expertise will be added after confirmation.</p>
     </div>
   </article>
 </div>
