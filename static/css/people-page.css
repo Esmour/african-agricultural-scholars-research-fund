@@ -1,0 +1,82 @@
+/* AASRF People page refinements */
+.content-layout-full {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.content-layout-full > .prose {
+  width: 100%;
+  max-width: none;
+}
+
+.founders-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  align-items: stretch;
+  margin-top: 38px;
+}
+
+.founder-card {
+  min-width: 0;
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.founder-photo {
+  display: block;
+  width: 100%;
+  height: 290px;
+  object-fit: cover;
+  object-position: center 35%;
+  background: var(--cream);
+}
+
+.founder-body {
+  flex: 1;
+  padding: 25px;
+}
+
+.founder-body h2 {
+  overflow-wrap: anywhere;
+}
+
+.founder-body p {
+  font-size: 13px;
+}
+
+.founder-body .role {
+  margin-top: 6px;
+}
+
+.profile-links {
+  row-gap: 8px;
+}
+
+@media (max-width: 760px) {
+  .founders-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 22px;
+  }
+
+  .founder-photo {
+    height: 300px;
+  }
+
+  .founder-body {
+    padding: 22px;
+  }
+}
+
+@media (min-width: 761px) and (max-width: 1000px) {
+  .founder-photo {
+    height: 240px;
+  }
+
+  .founder-body {
+    padding: 20px;
+  }
+}
