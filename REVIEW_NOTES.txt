@@ -1,0 +1,29 @@
+AASRF source review and clean-up
+
+Main functional correction:
+- Hugo Goldmark's renderer defaults to not rendering raw HTML embedded in Markdown.
+- content/people.md uses HTML div/article/img elements for the founder cards.
+- hugo.toml now explicitly enables [markup.goldmark.renderer] unsafe = true.
+- This is required for the authored HTML cards (and the existing contact panel) to render.
+- Only trusted, repository-maintained Markdown should be used with this setting.
+
+Other clean-ups:
+- Kept the canonical People page at content/people.md.
+- Removed the duplicate root-level people.md; Hugo does not use that as a content page.
+- Removed the unused founders-page.css. The site loads people-page.css.
+- Kept the single page template's optional sidebar behaviour and made the no-sidebar
+  layout explicitly full-width.
+- Kept the five existing photo files and their current filenames.
+- Updated the People CSS to use two columns on desktop and one column on mobile.
+- Used object-fit: contain so portrait and square headshots are not aggressively cropped.
+
+Not changed:
+- Founder names, titles, affiliations, biographies and profile links were preserved.
+- In particular, the title "PDF Cropping Systems Agronomist" was preserved exactly as
+  supplied in the source. Confirm whether "PDF" is the intended official title before launch.
+- The biographies marked for later confirmation remain provisional.
+
+Validation:
+- The ZIP was inspected and source consistency checked.
+- Hugo is not installed in this execution environment, so a local `hugo --minify` build
+  could not be run. Run it locally or let Cloudflare Pages build after pushing.

@@ -45,3 +45,10 @@ enableRobotsTXT = true
     name = "Contact"
     pageRef = "/contact"
     weight = 8
+
+# The content pages use small, author-written HTML components (e.g. founder cards
+# and contact panels) inside Markdown. Keep this enabled only for trusted,
+# repository-maintained content; do not render untrusted user-submitted Markdown.
+[markup.goldmark.renderer]
+  unsafe = true
+

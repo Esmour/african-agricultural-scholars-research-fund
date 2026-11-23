@@ -58,3 +58,12 @@ Also add `www.african-agricultural-scholars-research-fund.org` if you want the w
 - `static/css/site.css` — responsive visual system
 - `static/js/site.js` — mobile navigation
 - `static/images/` — logo and local image assets
+
+
+## Markdown HTML rendering
+
+The site uses a small amount of hand-authored HTML inside Markdown pages, including the
+founder cards on `content/people.md` and the contact panels on `content/contact.md`.
+For those components to render, `hugo.toml` enables Goldmark's `unsafe` renderer.
+This is appropriate for this repository's trusted, maintainer-edited content. Do not
+publish untrusted user-submitted Markdown with this setting enabled.
