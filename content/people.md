@@ -31,7 +31,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
       <div class="eyebrow">FOUNDING MEMBER</div>
       <h2>Dr. Ismail I. Garba</h2>
       <p class="role">Founding member</p>
-      <p>Dr. Garba is a founding member of the African Agricultural Scholars Research Fund. A fuller professional biography and areas of expertise will be added after confirmation.</p>
+      <p> Dr Garba integrates agronomy, crop modelling, and data analytics to understand how farming systems perform across environments. My work focuses on analysing genotype × environment × management interactions to improve crop productivity, resilience, and resource-use efficiency in agricultural systems. I develops analytical frameworks that combine crop models such as APSIM with experimental data, climate information, and digital agriculture datasets to generate system-level insights that support decision-making in agriculture that contributes to improving decision intelligence for farming systems and supporting the development of resilient and productive agricultural systems..</p>
       <div class="profile-links"><a href="https://orcid.org/0000-0002-0009-4866" target="_blank" rel="noopener noreferrer">ORCID ↗</a></div>
     </div>
   </article>
@@ -67,5 +67,3 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     </div>
   </article>
 </div>
-
-**Profile information:** Professional biographies, titles, areas of expertise and additional links should be reviewed and approved by each founding member before publication.
