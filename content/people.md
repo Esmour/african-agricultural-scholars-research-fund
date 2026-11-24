@@ -39,7 +39,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
       <div class="eyebrow">FOUNDING MEMBER · CSIRO, AUSTRALIA</div>
       <h2>Dr. Ismail Ibrahim Garba</h2>
       <p class="role">Farming Systems Scientist</p>
-      <p>Dr. Ismail Ibrahim Garba is an agricultural systems scientist at CSIRO, Australia, working at the intersection of agronomy, farming systems analysis, crop modelling and data science. His research focuses on understanding how crop production systems respond to environmental conditions and management practices, and how this knowledge can be translated into practical insights for improving agricultural productivity, resilience and resource-use efficiency. my work integrates process-based crop models, particularly APSIM, with field experiments, climate data, environmental characterisation and large-scale agricultural datasets. He specialises in analysing genotype × environment × management (G × E × M) interactions, envirotyping and farming systems modelling to understand spatial and temporal variation in crop performance. He also develops computational and analytical frameworks that combine agronomic knowledge, data engineering and advanced statistical methods to support evidence-based agricultural decision-making. Dr. Garba's research contributes to several areas of agricultural innovation, including climate-resilient cropping systems, nitrogen-use efficiency, agricultural risk management and digital decision-support systems. Through collaborative research, he aims to strengthen the scientific foundations for sustainable intensification and improve the capacity to generate locally relevant agricultural solutions, particularly for diverse farming environments across Africa and Australia.</p>
+      <p>Dr. Ismail Ibrahim Garba is an agricultural systems scientist at CSIRO, Australia, working at the intersection of agronomy, farming systems analysis, crop modelling and data science. My research focuses on understanding how crop production systems respond to environmental conditions and management practices, and how this knowledge can be translated into practical insights for improving agricultural productivity, resilience and resource-use efficiency. I specialises in analysing genotype × environment × management (G × E × M) interactions, envirotyping and farming systems modelling to understand spatial and temporal variation in crop performance. I also develops computational and analytical frameworks that combine agronomic knowledge, data engineering and advanced statistical methods to support evidence-based agricultural decision-making for diverse farming environments across Africa and Australia.</p>
       <div class="expertise">
         <b>Areas of expertise</b>
         <span>Farming systems analysis and modelling</span>
@@ -47,7 +47,6 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
         <span>Environmental characterisation and envirotyping</span>
         <span>Genotype × environment × management interactions</span>
         <span>Data integration and analytics</span>
-        <span>Nitrogen-use efficiency and nutrient management</span>
         <span>Agricultural risk and decision-support systems</span>
       </div>
       <div class="profile-links">
