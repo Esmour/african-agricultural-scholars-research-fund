@@ -42,7 +42,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · CSIRO, AUSTRALIA</div>
       <h2>Dr. Ismail Ibrahim Garba</h2>
-      <p class="role">Farming Systems Scientist | Agricultural Systems Modelling</p>
+      <p class="role">Farming Systems Scientist</p>
 
       <p>Dr. Ismail Ibrahim Garba is an agricultural systems scientist at CSIRO, Australia, working at the intersection of agronomy, farming systems analysis, crop modelling and data science. His research focuses on understanding how crop production systems respond to environmental conditions and management practices, and how this knowledge can be translated into practical insights for improving agricultural productivity, resilience and resource-use efficiency. my work integrates process-based crop models, particularly APSIM, with field experiments, climate data, environmental characterisation and large-scale agricultural datasets. He specialises in analysing genotype × environment × management (G × E × M) interactions, envirotyping and farming systems modelling to understand spatial and temporal variation in crop performance. He also develops computational and analytical frameworks that combine agronomic knowledge, data engineering and advanced statistical methods to support evidence-based agricultural decision-making. Dr. Garba's research contributes to several areas of agricultural innovation, including climate-resilient cropping systems, nitrogen-use efficiency, agricultural risk management and digital decision-support systems. Through collaborative research, he aims to strengthen the scientific foundations for sustainable intensification and improve the capacity to generate locally relevant agricultural solutions, particularly for diverse farming environments across Africa and Australia.</p>
 
@@ -72,7 +72,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · UNIVERSITY OF DUNDEE, UK</div>
       <h2>Dr. Tukur Abdulazeez</h2>
-      <p class="role">Agronomist and Agricultural Research Scientist</p>
+      <p class="role">Research Scientist</p>
 
       <p>Dr. Tukur Abdulazeez Tukur is an agronomist and multidisciplinary agricultural scientist combining expertise in agronomy, environmental science, remote sensing, precision agriculture, and machine learning, with over 12 years of research and development experience in agricultural research for development. His research interests span precision agriculture, crop nutrition and nutrient-use efficiency, hyperspectral sensing, digital agriculture, climate-smart agronomy, and the integration of remote sensing and machine learning to improve nutrient management, agricultural productivity, and environmental sustainability. He is completing a PhD in Geography at the University of Dundee, United Kingdom, where his research integrates hyperspectral sensing, field-based agronomic measurements, and machine learning to advance nitrogen diagnosis and management. Previously, he worked at the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), contributing to multi-location on-station and on-farm research-for-development activities focused on sustainable intensification, crop productivity, soil fertility management, climate resilience, and farmer-oriented agricultural interventions across Nigeria.</p>
       <div class="profile-links">
