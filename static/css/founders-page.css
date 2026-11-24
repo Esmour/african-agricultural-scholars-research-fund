@@ -115,9 +115,11 @@ Append this block to the END of static/css/site.css.
   }
 
   .founder-photo {
-    height: 310px;
-    flex-basis: 310px;
-  }
+  width: 170px;
+  height: 190px;
+  flex-basis: 190px;
+  margin-bottom: 20px;
+}
 
   .founder-body {
     padding: 22px;
