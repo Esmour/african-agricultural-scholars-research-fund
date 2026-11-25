@@ -84,7 +84,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
   </article>
 
   <article class="founder-card">
-    <img class="founder-photo" src="/images/benjamin.jpeg" alt="Dr. Benjamin Kurya" loading="lazy">
+    <img class="founder-photo" src="/images/benjamin.jpg" alt="Dr. Benjamin Kurya" loading="lazy">
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · UNIVERSITY OF ADELAIDE, AUSTRALIA</div>
       <h2>Dr. Benjamin Kurya</h2>
