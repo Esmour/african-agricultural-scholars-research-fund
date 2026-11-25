@@ -88,8 +88,11 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · UNIVERSITY OF ADELAIDE, AUSTRALIA</div>
       <h2>Dr. Benjamin Kurya</h2>
-      <p class="role">Founding Member</p>
-      <p>Dr. Benjamin Kurya is a founding member of the African Agricultural Scholars Research Fund. His professional profile and research biography will be added soon.</p>
+      <p class="role">Plant breeder</p>
+      <p>Suleman Benjamin Kurya is a plant breeder currently completing a PhD in Plant Genetics and Breeding at Adelaide University, Australia. His research focuses on the application of CRISPR/Cas9-mediated gene editing to introduce agronomically desirable traits in barley, with particular emphasis on herbicide tolerance and nitrogen use efficiency. He holds a Masters degree Plant Genetics and Breeding from the University of Western Australia and a Bachelor of Agricultural Technology in Crop Production Technology from Abubakar Tafawa Balewa University, Nigeria. He has over 14 years of professional experience spanning crop breeding, seed systems, agricultural research and development. Prior to pursuing his postgraduate studies in Australia, Suleman worked with the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), where he contributed to groundnut breeding and the release of three improved varieties in Nigeria. His industry experience also covers seed production and certification, out-grower coordination, agricultural project management and business development. Looking ahead, Suleman is interested in advancing his research in precision breeding and crop adaptation to environmental stresses. He is interested in applying advances in plant science to address practical agricultural challenges to promote agriculture in Africa and the world.</p>
+       <div class="profile-links">
+        <a href="https://orcid.org/0000-0003-1660-0046" target="_blank" rel="noopener noreferrer">ORCID ↗</a>
+        <a href="linkedin.com/in/benjamin-suleman-kurya-26031b90/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
     </div>
   </article>
 
