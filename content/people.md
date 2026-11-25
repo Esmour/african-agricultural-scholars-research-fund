@@ -62,7 +62,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     <img class="founder-photo" src="/images/tukur.jpg" alt="Dr. Tukur Abdulazeez" loading="lazy">
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · UNIVERSITY OF DUNDEE, UK</div>
-      <h2>Dr. Tukur Abdulazeez</h2>
+      <h2>Dr. Tukur Abdulazeez Tukur</h2>
       <p class="role">Research Scientist</p>
       <p>Dr. Tukur Abdulazeez Tukur is an agronomist and multidisciplinary agricultural scientist combining expertise in agronomy, environmental science, remote sensing, precision agriculture, and machine learning, with over 12 years of research and development experience in agricultural research for development. His research interests span precision agriculture, crop nutrition and nutrient-use efficiency, hyperspectral sensing, digital agriculture, climate-smart agronomy, and the integration of remote sensing and machine learning to improve nutrient management, agricultural productivity, and environmental sustainability. He is completing a PhD in Geography at the University of Dundee, United Kingdom, where his research integrates hyperspectral sensing, field-based agronomic measurements, and machine learning to advance nitrogen diagnosis and management. Previously, he worked at the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), contributing to multi-location on-station and on-farm research-for-development activities focused on sustainable intensification, crop productivity, soil fertility management, climate resilience, and farmer-oriented agricultural interventions across Nigeria.</p>
       <div class="profile-links">
@@ -77,7 +77,7 @@ The African Agricultural Scholars Research Fund is being developed by agricultur
     <img class="founder-photo" src="/images/adam.jpg" alt="Dr. Adam M. Adam" loading="lazy">
     <div class="founder-body">
       <div class="eyebrow">FOUNDING MEMBER · UNIVERSITY OF GÖTTINGEN, GERMANY</div>
-      <h2>Dr. Adam M. Adam</h2>
+      <h2>Dr. Adam Muhammad Adam</h2>
       <p class="role">Soil Scientist and Cropping Systems Agronomist</p>
       <p>Dr. Adam Muhammad Adam is a soil scientist and cropping systems agronomist conducting research at the intersection of soil fertility, crop physiology, genetics, and agroecosystem modelling. His research interests include integrating genetic information into process-based crop growth simulation models, genotype-by-environment-by-management (G × E × M) interactions, rhizosphere processes, and building resilient tropical cropping systems. He joined the University of Göttingen as a Postdoctoral Researcher in the Tropical Plant Production and Agricultural Systems Modelling (TROPAGS) group, where his work focuses on linking genetic traits to crop growth models to better simulate plant responses to multiple concurrent abiotic and biotic stresses. Prior to joining the University of Göttingen, Adam conducted research at the Institute of Agricultural Sciences in the Tropics (Hans-Ruthenberg-Institute), University of Hohenheim, focusing on legume integration, intercropping dynamics, and landscape-scale crop modelling. He also worked in Nigeria at Bayero University, Kano.</p>
     </div>
